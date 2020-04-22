@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CIKOqAoN8MXcazHumuhGtCCKY64eKHhM+F0ALh7aZPMOjqE01fu88uBdmUAAtiut0ZnbqhBAXtjWIb5E+sypA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahal.qasim.PREMIER\\Desktop\\Core Excel Import\\import-export-excel-in-.NET-Core-3.1-razor-using-NPOI\\ImportExcelFIle.DotNETCore\\ImportExcelFIle.DotNETCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\dotnetcore.npoi\\1.2.2\\dotnetcore.npoi.1.2.2.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\dotnetcore.npoi.core\\1.2.2\\dotnetcore.npoi.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\dotnetcore.npoi.openxml4net\\1.2.2\\dotnetcore.npoi.openxml4net.1.2.2.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\dotnetcore.npoi.openxmlformats\\1.2.2\\dotnetcore.npoi.openxmlformats.1.2.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
+    "C:\\Users\\sahal.qasim.PREMIER\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
